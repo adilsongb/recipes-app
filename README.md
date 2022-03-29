@@ -10,7 +10,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto de aplicativo de receitas desenvolvido em grupo usando conceitos e tecnologias ensinadas no curso de desenvolvimento web da Trybe. A aplicação foi desenvolvida usando React, Redux, Bootstrap e CSS.
+  Projeto de aplicativo de receitas desenvolvido em grupo usando conceitos e tecnologias ensinadas no curso de desenvolvimento web da Trybe. A aplicação foi desenvolvida usando React, Context API, Bootstrap e CSS.
 </p>
 
 ## Funcionalidades
@@ -55,13 +55,13 @@ $ npm start
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [Redux](https://redux.js.org/)
+- [Context API](https://pt-br.reactjs.org/docs/context.html)
 - [Bootstrap](https://getbootstrap.com/)
 - [RTL](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-- Adilson Gabriel ([adilsongb]())
+- Adilson Gabriel ([adilsongb](https://github.com/adilsongb))
 - André Morsch ([andremorsch](https://github.com/andremorsch))
 - Antônio Gonçalves ([Raikouve](https://github.com/Raikouve))
 - Cecilia Cacais ([cecicacais](https://github.com/cecicacais))
