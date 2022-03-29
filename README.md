@@ -1,11 +1,6 @@
-<img src="./public/logo-trybe.png" alt="drawing" style="width:15px; float: right; margin-top: 4px"/>
-<h4 style="margin-right: 10px; float: right;">Projeto oferecido por 
-<a href="https://www.betrybe.com/">@betrybe</a>
-</h4>
-
-
-
 # App de Receitas
+
+<h4>Projeto oferecido por <a href="https://www.betrybe.com/">@betrybe</a></h4>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
